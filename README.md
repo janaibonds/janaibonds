@@ -4,7 +4,6 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-[<img align="left" alt="JanaiBonds | LinkedIn" width="22px" src="https://www.linkedin.com/in/janai-bonds-51b31714/ />][linkedin]
 
 
 [linkedin]:https://www.linkedin.com/in/janai-bonds-51b31714/
