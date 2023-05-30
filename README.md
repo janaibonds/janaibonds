@@ -4,13 +4,12 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-<h2> 🤳 Connect with me:</h2>
+[<img align="left" alt="JanaiBonds | LinkedIn" width="22px" src="https://www.linkedin.com/in/janai-bonds-51b31714/ />][linkedin]
 
-[instagram]: https://www.instagram.com/jcb089/
-[linkedin]: https://www.linkedin.com/in/janai-bonds-51b31714/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[linkedin]:https://www.linkedin.com/in/janai-bonds-51b31714/
+
+
 
 Here are some ideas to get you started:
 
